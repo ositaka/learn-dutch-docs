@@ -31,7 +31,7 @@ Below, you will find out the most common categories for the use of **DE** as art
 ### CAT. #2 — Groeten _(Vegetables)_ | Fruit _(Fruits)_
 
 > **de** avocado / **de** banaan / **de** appel / **de** aardbei
-> the avocado / the banana / the apple / the strawberry
+> _— the avocado / the banana / the apple / the strawberry_
 
 > **de** komkommer / **de** boerenkool / **de** sla / **de** wortel
 > _— the cucumber / the kale / the lettuce / the carrot_
