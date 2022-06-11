@@ -8,11 +8,9 @@ metaTitle: 'Discover here the difference between the Dutch articles "De" vs "Het
 > **de** plant
 > _— the (big) plant_
 >
-> **het** plant**je**
-> _— the small plant_
+> **het** plant**je** > _— the small plant_
 
-> **de** plant → **het** plant**je**
-> _— the (big) plant → the small plant._
+> **de** plant → **het** plant**je** > _— the (big) plant → the small plant._
 
 ---
 
@@ -28,11 +26,10 @@ Example: **word** ⊕ **je** / **tje** / **pje**
 > **de** broek
 > _— the (long) jeans_
 >
->  **het** broek**je**
->  _— the shorts_
+> **het** broek**je**
+> _— the shorts_
 
-> **de** broek → **het** broek**je**
-> _— the (long) jeans → the shorts_
+> **de** broek → **het** broek**je** > _— the (long) jeans → the shorts_
 
 ---
 
@@ -41,11 +38,9 @@ Example: **word** ⊕ **je** / **tje** / **pje**
 > "Voor meervoud gebruik je altijd **DE**."
 > _— For plurals you always use **DE**._
 
-> **de** broek → **de** broek**en**
-> _— the pants (singular)  → the pants (plural)_
+> **de** broek → **de** broek**en** > _— the pants (singular) → the pants (plural)_
 
-> **het** broekje → **de** broekje**s**
-> _— the small pants (singular) → the small pants (plural)_
+> **het** broekje → **de** broekje**s** > _— the small pants (singular) → the small pants (plural)_
 
 ---
 

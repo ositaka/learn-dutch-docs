@@ -1,9 +1,9 @@
 ---
 title: '"HET" — Categories'
-metaTitle: 'Discover here when to use the Dutch article "Het" and its most common used categories.'
+metaTitle: 'Discover here when to use the Dutch article "HET" and its most common used categories.'
 ---
 
-Below, you will find out the most common categories for the use of **het** as article.
+Below, you will find out the most common categories for the use of **HET** as article.
 
 > "Dan gaan we nu naar de categorieën van **HET**."
 > _— Then now we go to the categories for **HET**._
@@ -25,7 +25,6 @@ Below, you will find out the most common categories for the use of **het** as ar
 
 ### CAT. #2 — Metalen _(Metals)_ | Stoffen _(Fabrics)_ | Materialen _(Materials)_
 
-
 > **het** goud / **het** zilver / **het** koper
 > _— the gold / the silver / the copper_
 
@@ -36,22 +35,23 @@ Below, you will find out the most common categories for the use of **het** as ar
 > _— the wood / the marble / the stone_
 >
 > "Een **uitzondering** van deze categorie is bijvoorbeeld: **de** wol."
-> _— An **exception** in this category is for instance: **the** wool.
+> \_— An **exception** in this category is for instance: **the** wool.
 
 ---
 
-### CAT. #3 — Spellen  _(Games)_ | Sporten _(Sports)_
+### CAT. #3 — Spellen _(Games)_ | Sporten _(Sports)_
 
 > "Met deze kaarten kun je bij voorbeeld poker spelen. En dat is dan: **het** poker."
 > _— With these cards you can play poker. And then it is: the poker._
 
 > **het** voetbal / **het** tennis
->_— the soccer / the tennis_
+> _— the soccer / the tennis_
 >
 > "Dus dit is **een uitzondering**: **de** yoga."
 > _— So, this is **an exception**: the yoga._
 
 ---
+
 ### CAT. #4 — Windrichtingen _(Wind directions)_
 
 > **het** noorden / **het** zuiden
@@ -61,6 +61,7 @@ Below, you will find out the most common categories for the use of **het** as ar
 > _— the west / the south-east_
 
 ---
+
 ### CAT. #5 — Kleuren _(Colors)_
 
 > **het** blauw / **het** turkoois
@@ -70,6 +71,7 @@ Below, you will find out the most common categories for the use of **het** as ar
 > _— the red / the white / the black_
 
 ---
+
 ### CAT. #6 — Zelfstandige naamwoorden van werkwoorden _(Nouns from verbs)_
 
 > **het** praten
@@ -85,6 +87,7 @@ Below, you will find out the most common categories for the use of **het** as ar
 > _— All nouns derived from verbs also have HET._
 
 ---
+
 ### CAT. #7 — Noun made of Adjective or Superlative
 
 > **het** goede
@@ -97,6 +100,7 @@ Below, you will find out the most common categories for the use of **het** as ar
 > _— the nicest_
 
 ---
+
 ### CAT. #8 — Words with 2 syllables, stating with: **be-**, **ge-**, **ver-**, **ont-**
 
 > **het** **be**roep
@@ -112,20 +116,16 @@ Below, you will find out the most common categories for the use of **het** as ar
 > _— the horrified_
 
 ---
+
 ### CAT. #9 — Words ending on: **-isme**, **-ment**, **-sel**, **-um**
 
-> **het** commin**isme**
-> _— the communism_
+> **het** commin**isme** > _— the communism_
 
-> **het** instru**ment**
-> _— the instrument_
+> **het** instru**ment** > _— the instrument_
 
-> **het** kap**sel**
-> _— the haircut_
+> **het** kap**sel** > _— the haircut_
 
-> **het** muse**um**
-> _— the museum_
-
+> **het** muse**um** > _— the museum_
 
 ---
 
